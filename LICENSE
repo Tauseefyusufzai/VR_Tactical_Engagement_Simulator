@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+THIRD-PARTY ASSETS & PACKAGES NOTICE
+-------------------------------------------------------------------------------
+This Unity project integrates third-party packages, shaders, 3D models, audio,
+and plugins (including Unity XR Interaction Toolkit samples, Unity Netcode for
+GameObjects, Universal Render Pipeline assets, and Unity Asset Store packages).
+Those third-party assets remain the property of their respective authors and are
+subject to the Unity Asset Store EULA or their respective package licenses.

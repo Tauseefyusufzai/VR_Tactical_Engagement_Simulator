@@ -1,0 +1,85 @@
+# =============================================================================
+# Unity Generated Directories
+# =============================================================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Pp]rofilerCaptures/
+[Rr]ecordings/
+.utmp/
+
+# Unity Recovery & Auto-Upgrade Cache
+Assets/[_][Rr]ecovery/
+Assets/[_][Rr]ecovery.meta
+Assets/[_][Tt]errainAutoUpgrade/
+Assets/[_][Tt]errainAutoUpgrade.meta
+
+# =============================================================================
+# IDE & Code Editor Files
+# =============================================================================
+.vs/
+.vscode/
+.idea/
+.gradle/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# =============================================================================
+# Build Artifacts & Packages
+# =============================================================================
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+crashlytics-build.properties
+
+# =============================================================================
+# Large Baked Lighting / Probe Volume Cache (>100 MB GitHub Limit)
+# =============================================================================
+Assets/Scenes/**/*Baking Set*.bytes
+Assets/Scenes/**/*Baking Set*.bytes.meta
+
+# Oversized Raw Source Textures (>100 MB GitHub Limit)
+Assets/AVP URP Setting/ASSETS/3D MATERIAL/Bricks_Mossy/Bricks_Mossy_mask.png
+Assets/AVP URP Setting/ASSETS/3D MATERIAL/Bricks_Mossy/Bricks_Mossy_mask.png.meta
+Assets/AVP URP Setting/ASSETS/3D MATERIAL/Bricks_Mossy/Bricks_Mossy_normal.png
+Assets/AVP URP Setting/ASSETS/3D MATERIAL/Bricks_Mossy/Bricks_Mossy_normal.png.meta
+Assets/AVP URP Setting/ASSETS/3D MATERIAL/Wood_Parquet_Exterior/Parquet_Exterior_basecolor.png
+Assets/AVP URP Setting/ASSETS/3D MATERIAL/Wood_Parquet_Exterior/Parquet_Exterior_basecolor.png.meta
+
+# =============================================================================
+# OS & Miscellaneous
+# =============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+*.stackdump
+*.log
