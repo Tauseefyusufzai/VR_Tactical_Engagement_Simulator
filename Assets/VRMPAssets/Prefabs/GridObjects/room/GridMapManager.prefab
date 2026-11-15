@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7784525710828672672
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7848804078833415808}
+  - component: {fileID: 4297000959889895897}
+  - component: {fileID: 5599730885534524946}
+  m_Layer: 0
+  m_Name: GridMapManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7848804078833415808
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7784525710828672672}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -960, y: -540, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4297000959889895897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7784525710828672672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GlobalObjectIdHash: 2582257421
+  InScenePlacedSourceGlobalObjectIdHash: 0
+  DeferredDespawnTick: 0
+  Ownership: 1
+  AlwaysReplicateAsRoot: 0
+  SynchronizeTransform: 1
+  ActiveSceneSynchronization: 0
+  SceneMigrationSynchronization: 0
+  SpawnWithObservers: 1
+  DontDestroyWithOwner: 0
+  AutoObjectParentSync: 1
+  SyncOwnerTransformWhenParented: 1
+  AllowOwnerToParent: 0
+--- !u!114 &5599730885534524946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7784525710828672672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a7ad4889fb82c4a9bcd3570028a23c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  m_CellSize: 3
+  m_HangarBox: {fileID: 2465449007227982940, guid: e7fb6a83e540a154e8e1b61c13d4172c,
+    type: 3}
+  m_BoxHeight: 10
+  m_WarehouseObject: {fileID: 0}
+  m_WarehousePrefab: {fileID: 1156673263851966263, guid: 3e8fd96133fa07849951621b4a952b20,
+    type: 3}
+  m_PlaceablePrefabs:
+  - {fileID: 2949984675591117630, guid: 2366e8a332b32894bbd7f9642b4a49f3, type: 3}
+  - {fileID: 1663662498697788684, guid: 15a8e030817f23843a2619d9777d2624, type: 3}
+  - {fileID: 2102454851472375663, guid: 37b2b43438aaf3e4eac832265be81fa2, type: 3}
+  - {fileID: 3085423160316581817, guid: 6fea331ee160f9342a7a8333f9b8a0b0, type: 3}
+  - {fileID: 1874951862613230757, guid: fc7c0457e7b7ddf4bbdf761850cf49da, type: 3}
+  - {fileID: 6016584773747876406, guid: 2448c0d917ecf424ab6fe3afefc1843d, type: 3}
+  - {fileID: 5282768234680919661, guid: 82c90a7c93b022843b7b4469f981ae18, type: 3}
+  m_LayoutTemplates:
+  - {fileID: 11400000, guid: fc192c69a5367e749bbad714c1da3bae, type: 2}

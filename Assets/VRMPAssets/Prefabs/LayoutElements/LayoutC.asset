@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97d3b1ecf1bd29c40a0f5cdcd6ddbb0c, type: 3}
+  m_Name: LayoutC
+  m_EditorClassIdentifier: 
+  LayoutName: 
+  LayoutPreviewSprite: {fileID: 21300000, guid: 657ce17d762d24246938b205d4acb95b,
+    type: 3}
+  PlacedObjects:
+  - GridPosition: {x: 3, y: 1}
+    PrefabIndex: 2
+    YRotation: 90
+    Scale: {x: 1, y: 1, z: 1}
+  - GridPosition: {x: -2, y: 5}
+    PrefabIndex: 1
+    YRotation: 180
+    Scale: {x: 1, y: 1, z: 1}
+  - GridPosition: {x: -4, y: 5}
+    PrefabIndex: 2
+    YRotation: 0
+    Scale: {x: 1, y: 1, z: 1}
+  - GridPosition: {x: 3, y: -3}
+    PrefabIndex: 2
+    YRotation: 90
+    Scale: {x: 1, y: 1, z: 1}
+  - GridPosition: {x: 5, y: 3}
+    PrefabIndex: 1
+    YRotation: 0
+    Scale: {x: 1, y: 1, z: 1}
+  - GridPosition: {x: 0, y: 5}
+    PrefabIndex: 2
+    YRotation: 180
+    Scale: {x: 1, y: 1, z: 1}
+  - GridPosition: {x: -7, y: -3}
+    PrefabIndex: 2
+    YRotation: 90
+    Scale: {x: 1.5, y: 1, z: 1}
+  - GridPosition: {x: 5, y: -5}
+    PrefabIndex: 1
+    YRotation: 180
+    Scale: {x: 1, y: 1, z: 1}
+  - GridPosition: {x: -2, y: -3}
+    PrefabIndex: 3
+    YRotation: 180
+    Scale: {x: 6, y: 0.5, z: 1}
+  - GridPosition: {x: -2, y: -2}
+    PrefabIndex: 3
+    YRotation: 270
+    Scale: {x: 7.5, y: 0.5, z: 1}
+  - GridPosition: {x: -3, y: -4}
+    PrefabIndex: 5
+    YRotation: 270
+    Scale: {x: 8.5, y: 5.5, z: 6.5}
+  - GridPosition: {x: -1, y: -4}
+    PrefabIndex: 5
+    YRotation: 270
+    Scale: {x: 8.5, y: 5.5, z: 6.5}
+  - GridPosition: {x: -1, y: -1}
+    PrefabIndex: 5
+    YRotation: 270
+    Scale: {x: 8.5, y: 5.5, z: 6.5}
+  - GridPosition: {x: -3, y: -1}
+    PrefabIndex: 5
+    YRotation: 270
+    Scale: {x: 8.5, y: 5.5, z: 6.5}
+  - GridPosition: {x: -7, y: 5}
+    PrefabIndex: 5
+    YRotation: 270
+    Scale: {x: 8.5, y: 5.5, z: 6.5}
+  - GridPosition: {x: -7, y: 2}
+    PrefabIndex: 5
+    YRotation: 270
+    Scale: {x: 8.5, y: 5.5, z: 6.5}
+  - GridPosition: {x: 7, y: 1}
+    PrefabIndex: 5
+    YRotation: 270
+    Scale: {x: 8.5, y: 5.5, z: 6.5}
+  - GridPosition: {x: 7, y: -2}
+    PrefabIndex: 5
+    YRotation: 270
+    Scale: {x: 8.5, y: 5.5, z: 6.5}
+  - GridPosition: {x: 3, y: 6}
+    PrefabIndex: 5
+    YRotation: 270
+    Scale: {x: 8.5, y: 5.5, z: 6.5}
+  - GridPosition: {x: 5, y: 7}
+    PrefabIndex: 5
+    YRotation: 270
+    Scale: {x: 8.5, y: 5.5, z: 6.5}
+  - GridPosition: {x: 8, y: -5}
+    PrefabIndex: 3
+    YRotation: 270
+    Scale: {x: 5.5, y: 0.5, z: 0.5}
+  - GridPosition: {x: 8, y: 3}
+    PrefabIndex: 3
+    YRotation: 270
+    Scale: {x: 9, y: 0.5, z: 0.5}
